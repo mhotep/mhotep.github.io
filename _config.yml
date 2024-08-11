@@ -1,3 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
+title: [Nnamdi Azikiwe's Front End Development portfolio]
+description: [A Github site where I keep my porfolio of Front End Development projects.]
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
